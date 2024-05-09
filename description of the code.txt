@@ -1,0 +1,22 @@
+Project title: ‘The Samurai” game
+Game’s mechanics:
+This is an action game. We have two attacks light and heavy attack.
+1 is for light attack while 2 is for heavy attack.
+I have introduced a concept of deflection to make stuff interesting. Advance enemies will be able to randomly deflect your attacks which means u will not be causing them any damage but will be getting damaged instead.
+For deflection: 
+You’ll have to guess which attack the enemy is going to make. Bosses will always have more than 2 attacks so you’ll have to guess between 1,2 and 3 if you guess the correct number you will remain unfazed.
+Modes:
+I have made 2 modes in the game:
+-classic mode
+-quick mode
+In classic mode, I have set out 3 bosses to fight with different difficulties (each having their specialties).
+As the game proceeds opponents are going to be tougher.
+In quick mode,
+You’ll be able to choose who you‘ll fight with.
+You will be given  4options:
+To play with boss1 2 or 3 or computer will choose a random boss from them.
+Welcome screen:
+You’ll see a logo at first which is a text art which I’ve used by reading from the file
+Stats and each power enemy posses is being shown by excell
+At the end you’ll be given a screen to continue playing again or just leave.
+
